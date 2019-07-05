@@ -1,13 +1,13 @@
 #!/bin/bash
 
 ##Domain name:
-DOMAIN="fine666.com"
+DOMAIN="domain.com"
 
 ##Host name (subdomain). Optional. If present, must end with a dot (.)
-HOST="bb"
+HOST="subdomain"
 
 ##APIKEY obtained from Namesilo:
-APIKEY="bc62a19f801916ad5afcff0c"
+APIKEY="APIKEY"
 
 ## Do not edit lines below ##
 
